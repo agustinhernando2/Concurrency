@@ -1,2 +1,3 @@
 # Concurrency
-materia: Programacion Concurrente
+Repositorio para la materia: Programacion Concurrente
+ 
