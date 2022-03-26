@@ -1,7 +1,7 @@
 # Concurrency
 ## Comenzando 🚀Repositorio para la materia: Programacion Concurrente
+en estas lineas de codigo podemos observar el motivo de estudiar concurrencia
 
-### en estas lineas de codigo podemos observar el motivo de estudiar concurrencia
 ### dos Tareas o hilos estan ejecutando acciones sobre variables en comun:
 * CRITICAL: seccion critica 
 * Y1,Y2 : Variables int que representan cada hilo
