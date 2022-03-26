@@ -1,11 +1,12 @@
 # Concurrency
 ## Comenzando 🚀Repositorio para la materia: Programacion Concurrente
+
 ### en estas lineas de codigo podemos observar el motivo de estudiar concurrencia
 ### dos Tareas o hilos estan ejecutando acciones sobre variables en comun:
-#### * CRITICAL: seccion critica 
-#### * Y1,Y2 : Variables int que representan cada hilo
-#### * _**Cantidad** representa la cantidad de instrucciones que se ejecutaron hasta llegar a el problema_
-#### 📄_debaggeando nos hubieramos vuelto locos buscando el problema_
+* CRITICAL: seccion critica 
+* Y1,Y2 : Variables int que representan cada hilo
+* Cantidad representa la cantidad de instrucciones que se ejecutaron hasta llegar a el problema_
+#### 📄 debaggeando nos hubieramos vuelto locos buscando el problema_
 ```
 --------Valor CRITICAL desde T2 = -1
 --------Valor Y1 desde T2 = 0
