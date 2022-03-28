@@ -1,3 +1,4 @@
 # Concurrency
-## Comenzando 🚀Repositorio para la materia: Programacion Concurrente
-#### los proyectos estan realizados sobre la IDE Ingellij
+## join() :kuwait:
+#### Waits for this thread to die
+
