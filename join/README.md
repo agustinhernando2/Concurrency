@@ -1,4 +1,4 @@
 # Concurrency
-## join() :kuwait:
+## join() 
 #### Waits for this thread to die
 
