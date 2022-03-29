@@ -8,4 +8,4 @@
 
 ##### Si se cambia el metodo start() por run() en la ejecucion del hilo vamos a ver que
 ##### el metodo run se va a ejecutar sobre el hilo "main" y no se va a ejecutar en 
-##### ningun momento el metodo interrupt() puesto que el hilo main nunca sale del run().
+##### ningun momento el metodo interrupt() puesto que el hilo main ejecuta secuencialmente
