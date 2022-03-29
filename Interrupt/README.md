@@ -10,7 +10,7 @@
 ##### el metodo run se va a ejecutar sobre el hilo "main" y no se va a ejecutar en 
 ##### ningun momento el metodo interrupt() puesto que el hilo main ejecuta secuencialmente
 #
-## 🚀Interrupciones
+## 🚀Interrupciones: GENERADOR DE NUMEROS PRIMOS
 
 ### un hilo busca numeros primos y se lo interrumpe con el metodo interrupt() como una sugerencia
 * se hacen algunos cambios : se comenta //return  
