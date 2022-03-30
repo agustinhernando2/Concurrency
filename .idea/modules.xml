@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Interrupt/Clock/Clock.iml" filepath="$PROJECT_DIR$/Interrupt/Clock/Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Concurrency.iml" filepath="$PROJECT_DIR$/.idea/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hilos/Hilos.iml" filepath="$PROJECT_DIR$/Hilos/Hilos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interrupt/InterrupcionPorExcepcion/InterrupcionPorExcepcion.iml" filepath="$PROJECT_DIR$/Interrupt/InterrupcionPorExcepcion/InterrupcionPorExcepcion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/join/JoinGrupo/JoinGrupo.iml" filepath="$PROJECT_DIR$/join/JoinGrupo/JoinGrupo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/join/Network/Network.iml" filepath="$PROJECT_DIR$/join/Network/Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/criticalSeccion/criticalSeccion.iml" filepath="$PROJECT_DIR$/criticalSeccion/criticalSeccion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interrupt/primeGenerator/primeGenerator.iml" filepath="$PROJECT_DIR$/Interrupt/primeGenerator/primeGenerator.iml" />
+    </modules>
+  </component>
+</project>
