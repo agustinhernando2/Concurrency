@@ -13,10 +13,14 @@ public class Grupo implements Runnable {
 			// TODO Auto-generated method stub
 
 	       for (int i=1; i<100;i++){
-	                       String msj = mensaje + i;
-	                       System.out.println(msj);
-	                       
-	                      
+			   String msj = mensaje + i;
+			   System.out.println(msj);
+
+	           //if(i == 50){
+				//   try{
+				//	   Thread.sleep(1000);
+				//   }catch (InterruptedException e){}
+			   //}
 	                       
 	       }
 		   
