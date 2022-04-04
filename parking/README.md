@@ -1,0 +1,1 @@
+## implementacion de synchronizer
